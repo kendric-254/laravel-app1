@@ -53,5 +53,5 @@
 
 {!! $products->links() !!}
 
-<p class="text-center text-primary"><small>Tutorial by ItSolutionStuff.com</small></p>
+<p class="text-center text-primary"><small>Tutorial by glensolutions.com</small></p>
 @endsection
